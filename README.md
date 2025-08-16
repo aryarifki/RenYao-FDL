@@ -5,6 +5,7 @@ Selamat datang di RenYao FDL.
 
 Program ini dirancang untuk memberikan pemahaman yang solid mengenai konsep-konsep fundamental dalam Machine Learning dan Deep Learning. Materi ini akan memandu Anda dari awal, menjelaskan cara kerja mesin belajar hingga membangun model prediksi pertama Anda.
 Tujuan utama kami adalah memberikan fondasi yang kuat sebelum Anda melangkah lebih jauh ke dalam dunia Deep Learning yang lebih kompleks.
+______________________________
 Materi yang Akan Dipelajari 📚
 Berikut adalah topik-topik utama yang akan kita bahas dalam materi ini:
  * Konsep Dasar Machine Learning & Deep Learning: Memahami apa itu mesin belajar dan bagaimana cara kerjanya.
