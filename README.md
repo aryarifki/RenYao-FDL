@@ -1,7 +1,7 @@
-# RenYao-FDL
+# Arya-FDL
 🤖 Fundamental Deep Learning 
 ___________________________
-Selamat datang di RenYao FDL.
+Selamat datang di Arya FDL.
 
 Program ini dirancang untuk memberikan pemahaman yang solid mengenai konsep-konsep fundamental dalam Machine Learning dan Deep Learning. Materi ini akan memandu Anda dari awal, menjelaskan cara kerja mesin belajar hingga membangun model prediksi pertama Anda.
 Tujuan utama kami adalah memberikan fondasi yang kuat sebelum Anda melangkah lebih jauh ke dalam dunia Deep Learning yang lebih kompleks.
